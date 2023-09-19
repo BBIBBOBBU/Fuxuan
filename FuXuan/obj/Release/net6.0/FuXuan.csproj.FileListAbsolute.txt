@@ -1,0 +1,9 @@
+C:\Users\tlswk\Desktop\UNITY강의\FuXuan\FuXuan\bin\Release\net6.0\FuXuan.exe
+C:\Users\tlswk\Desktop\UNITY강의\FuXuan\FuXuan\bin\Release\net6.0\FuXuan.dll
+C:\Users\tlswk\Desktop\UNITY강의\FuXuan\FuXuan\obj\Release\net6.0\FuXuan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tlswk\Desktop\UNITY강의\FuXuan\FuXuan\obj\Release\net6.0\FuXuan.AssemblyInfoInputs.cache
+C:\Users\tlswk\Desktop\UNITY강의\FuXuan\FuXuan\obj\Release\net6.0\FuXuan.AssemblyInfo.cs
+C:\Users\tlswk\Desktop\UNITY강의\FuXuan\FuXuan\obj\Release\net6.0\FuXuan.csproj.CoreCompileInputs.cache
+C:\Users\tlswk\Desktop\UNITY강의\FuXuan\FuXuan\obj\Release\net6.0\FuXuan.dll
+C:\Users\tlswk\Desktop\UNITY강의\FuXuan\FuXuan\obj\Release\net6.0\refint\FuXuan.dll
+C:\Users\tlswk\Desktop\UNITY강의\FuXuan\FuXuan\obj\Release\net6.0\FuXuan.pdb
